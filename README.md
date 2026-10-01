@@ -4,6 +4,11 @@
 An automated machine learning tool based on genetic programming.  
 Make sure to check out the [documentation](https://openml-labs.github.io/gama/).
 
+> [!NOTE]
+> After years of inactivity, I must conclude that GAMA has consistently ranked lower than my other priorities (e.g., [AMLB](https://www.github.com/openml/automlbenchmark) and [OpenML](https://www.openml.org)).
+> Because I see no reason this should change in the near future, and there is no one to take over this project, I have decided to archive this repository.
+> I want to thank everyone who has contributed to GAMA and/or used it in one way or another in their work or research.
+
 [![Build Status](https://travis-ci.org/openml-labs/gama.svg?branch=master)](https://travis-ci.org/openml-labs/gama)
 [![codecov](https://codecov.io/gh/openml-labs/gama/branch/master/graph/badge.svg)](https://codecov.io/gh/openml-labs/gama)
 [![DOI](http://joss.theoj.org/papers/10.21105/joss.01132/status.svg)](https://doi.org/10.21105/joss.01132)
